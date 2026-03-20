@@ -1,4 +1,4 @@
-# Lakshmi Reddy
+# Laxmi Reddy
 
 4th Year IT Undergraduate 
 
