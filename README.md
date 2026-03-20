@@ -6,7 +6,7 @@
 
 ## About Me
 
-I am a final-year IT student at PCCE with a strong interest in building intelligent and scalable applications. My experience spans backend development with Java and Spring Boot, machine learning with Python, and AI-powered web applications using modern frameworks. I enjoy solving real-world problems through code and continuously exploring new technologies.
+I am a final-year IT student at PCCE with a strong interest in building intelligent and scalable applications. My experience spans machine learning with Python, and AI-powered web applications using modern frameworks. I enjoy solving real-world problems through code and continuously exploring new technologies.
 
 ---
 
